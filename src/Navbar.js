@@ -5,7 +5,7 @@ class Navbar extends Component {
     return (
       <div>
         <nav>
-          <div class="nav-wrapper">
+          <div class="nav-wrapper green">
             <a href="#home" class="brand-logo">
               Logo
             </a>
